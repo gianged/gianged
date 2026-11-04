@@ -16,6 +16,10 @@ I build backend systems, mostly in Rust these days, after a long stretch of .NET
 - **Picking the right store** - Postgres first, then ScyllaDB, Redis, or MongoDB when the data shape asks for it.
 - **LLM-assisted development & workflow automation** - tools that take the busywork out of coding: code search, commit messages, scripts.
 
+<p align="center">
+  <img src="assets/metrics.svg" alt="GitHub metrics" width="100%">
+</p>
+
 ## System design in practice
 
 `rate limiting` · `async job queues` · `caching` · `pub/sub` · `real-time over WebSocket` · `polyglot persistence` · `ReBAC authorization` · `service-to-service gRPC`
