@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/metrics.svg" alt="GitHub metrics" width="100%">
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="Giang Nguyen - Rust, systems, low latency, C++" width="100%">
 </p>
 
@@ -15,10 +19,6 @@ I build backend systems, mostly in Rust these days, after a long stretch of .NET
 - **Distributed backends** - microservices, background jobs, pub/sub, relationship-based access control.
 - **Picking the right store** - Postgres first, then ScyllaDB, Redis, or MongoDB when the data shape asks for it.
 - **LLM-assisted development & workflow automation** - tools that take the busywork out of coding: code search, commit messages, scripts.
-
-<p align="center">
-  <img src="assets/metrics.svg" alt="GitHub metrics" width="100%">
-</p>
 
 ## System design in practice
 
